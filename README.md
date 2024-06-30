@@ -22,11 +22,8 @@ matplotlib (for basic visualizations)
 seaborn (for advanced visualizations)
 # Setup
 ## Clone the repository:
-
-bash
-## Copy code
-git clone https://github.com/your_username/lok-sabha-election-2024-analysis.git
-cd lok-sabha-election-2024-analysis
+`git clone https://github.com/your_username/lok-sabha-election-2024-analysis.git
+cd lok-sabha-election-2024-analysis`
 ## Install dependencies:
 
 ## Copy code
