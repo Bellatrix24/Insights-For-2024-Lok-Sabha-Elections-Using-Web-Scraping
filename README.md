@@ -25,13 +25,11 @@ seaborn (for advanced visualizations)
 `git clone https://github.com/your_username/lok-sabha-election-2024-analysis.git
 cd lok-sabha-election-2024-analysis`
 ## Install dependencies:
-
-## Copy code
-pip install requests
+`pip install requests
 pip install beautifulsoup4
 pip install pandas
 pip install matplotlib
-pip install seaborn
+pip install seaborn`
 ## Usage
 Run the main jupiter notebook to scrape data and generate insights:
 
