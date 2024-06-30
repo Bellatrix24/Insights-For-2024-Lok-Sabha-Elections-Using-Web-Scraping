@@ -25,7 +25,7 @@ seaborn (for advanced visualizations)
 `git clone https://github.com/your_username/lok-sabha-election-2024-analysis.git
 cd lok-sabha-election-2024-analysis`
 ## Install dependencies:
-`pip install requests
+pip install requests
 
 pip install beautifulsoup4
 
